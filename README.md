@@ -12,3 +12,5 @@ torchvision 0.5.0
 ```
 https://github.com/Kunye-Shen/CKLNet.git
 ```
+
+1. We also provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/drive/folders/1u1BoysWTmzt-bilYBuyY6YC6-N4NYOUb?usp=drive_link) or [baidu](https://pan.baidu.com/s/1knrIGHuuIfhsomxLs_K-NA) extraction code: w4wd.).
